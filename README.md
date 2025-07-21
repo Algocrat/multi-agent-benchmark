@@ -50,7 +50,6 @@ This benchmark evaluates the capabilities of different multi-agent orchestration
 
 ## How to Run
 
-### 1. Clone the Repo
 ```bash
 git clone https://github.com/yourusername/agent-benchmark-suite.git
 cd agent-benchmark-suite
